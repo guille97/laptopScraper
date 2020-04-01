@@ -1,3 +1,4 @@
+
 # Pràctica 1: Web Scraping (laptopScraper)
 
 ## Descripció
