@@ -29,7 +29,15 @@ pip install [nom_modul]
 
 on el [nom_mòdul] és l'utilitzat a la llista anterior.
 
+## Fitxers
 
+* _laptop_scraper.py_: codi que genera el dataset.
 
+* _laptop_data.csv_: dataset resultant.
 
+* _README.md_: aquest arxiu.
+
+* _PRA1.pdf_: pdf amb les respostes de la pràctica.
+
+* _LICENSE_: arxiu de la licència generat automàticament.
 
